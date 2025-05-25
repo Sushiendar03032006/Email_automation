@@ -63,13 +63,13 @@ The email will be sent automatically using either SMTP or Outlook, depending on 
 
 ## UiPath WorkFlow:
 
-![alt text](<img/Screenshot 2024-09-27 192351.png>)
-![alt text](<img/Screenshot 2024-09-27 192410.png>)
-![alt text](<img/Screenshot 2024-09-27 205823.png>)
-![alt text](<img/Screenshot 2024-09-27 205849.png>)
-![alt text](<img/Screenshot 2024-09-27 205915.png>)
-![alt text](<img/Screenshot 2024-09-27 205933.png>)
-![alt text](<img/Screenshot 2024-09-27 205733.png>)
+![image](https://github.com/user-attachments/assets/9ac3a810-f264-4967-bdbd-77302aa4f4ce)
+![image](https://github.com/user-attachments/assets/b049d015-a29d-474f-969b-812c75fecb71)
+![image](https://github.com/user-attachments/assets/f4ed62e8-f371-4c04-ab5f-af1c033a3b38)
+![image](https://github.com/user-attachments/assets/5ccf1f3b-7416-4c26-88e7-796fd49b74d1)
+![image](https://github.com/user-attachments/assets/f981092f-2d39-4f11-b71e-e75236267d50)
+![image](https://github.com/user-attachments/assets/5562874e-1a10-446a-9572-95492a2b1ce7)
+
 
 ## Result:
 
